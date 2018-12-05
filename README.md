@@ -14,5 +14,5 @@ WindowsServiceInstaller.exe  /mode=Install  /serviceName=填写服务名称  /pa
 ```
 ```
 卸载服务：
-WindowsServiceInstaller.exe  /mode=Install  /serviceName=填写服务名称 
+WindowsServiceInstaller.exe  /mode=uninstall  /serviceName=填写服务名称 
 ```
